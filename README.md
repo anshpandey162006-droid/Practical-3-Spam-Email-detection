@@ -1,1 +1,1 @@
-# Practical-3-Spam-Email-detection
+# Practical-7-titanic survival prediction 
